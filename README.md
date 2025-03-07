@@ -155,7 +155,7 @@ These resources will help you deepen your understanding of static site generator
 ## FAQ
 
 **Q: Can I preview my site before publishing?**  
-A: Yes! To preview your site locally, run:
+A: Yes and you should! To preview your site locally, run:
    ```bash
    pelican content
    pelican --listen
