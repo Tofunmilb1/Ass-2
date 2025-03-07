@@ -153,14 +153,9 @@ These resources will help you deepen your understanding of static site generator
 ---
 
 ## FAQ
+**Q: Why is Markdown better than writing raw HTML?**
 
-**Q: Can I preview my site before publishing?**  
-A: Yes and you should! To preview your site locally, run:
-   ```bash
-   pelican content
-   pelican --listen
-   ```
-   Then visit `http://localhost:8000/` in your browser to preview your site.
+ A: Markdown simplifies the writing process. It allows you to focus on content without worrying about complex HTML things. It’s more user-friendly and readable, and tools like Pelican support it directly.
 
 **Q: How do I change my site’s theme?**  
 A: Pelican supports custom themes. You can browse available themes at [Pelican Themes](https://github.com/getpelican/pelican-themes) and install one with:
