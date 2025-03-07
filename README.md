@@ -27,6 +27,7 @@ Before you begin, make sure you have the following installed:
 
 Having these tools in place ensures you have everything needed to start creating and hosting your resume. As you get familiar with Markdown, Pelican, and GitHub Pages, you’ll be able to tweak and maintain your resume more efficiently over time.
 
+These tools align with Etter’s emphasis on using lightweight, simple, and scalable tools rather than complex word processors.
 ---
 
 ## Step-by-Step Instructions
@@ -113,6 +114,8 @@ Once you've written your resume in Markdown, Pelican will convert it into a comp
    pelican --listen
    ```
    - Open your browser and go to `http://localhost:8000/` to preview your site.
+   
+   -Static websites reduce complexity and eliminate dependency on databases.
    - This allows you to check how your resume looks before it’s published online, ensuring that everything is displayed correctly.
 
 ### 5. Deploy to GitHub Pages
@@ -133,6 +136,7 @@ GitHub Pages is a free and simple platform for hosting static websites. It allow
 
 3. Your resume is now live at `https://your-username.github.io/website-example`! This URL is your new public resume, accessible from anywhere.
 
+This follows Etter’s advice to publish frequently and maintain version history.
 ---
 
 ## Additional Resources
