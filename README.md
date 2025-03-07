@@ -62,13 +62,16 @@ Pelican is a static site generator. It’s lightweight and fast, designed to cre
    ```
    When prompted, provide the following:
    - **Project directory?** Press Enter (use the current directory)
-   - **Website title?** "My Resume Site"
+   - **Website title?** "My Sample Website"
    - **Author name?** Enter your name
+   - **What will be the default language of this web site?** [English] Press Enter
+   - **Do you want to specify a URL prefix?** e.g., https://example.com  (Y/N)-Y
+   - **Do you want to upload your website using GitHub Pages?** (Y/N)-Y
    - **Absolute URL prefix?** `https://your-username.github.io/website-example`
    - **Generate Makefile?** Yes
    - **Use a simple HTTP server?** Yes
 
-Pelican will generate a basic project structure for you. It’s a good practice to maintain the default structure to ensure that Pelican works smoothly with other tools.
+Pelican will generate a basic project structure for you.You should get a message like "Done. Your new project is available at C:\..." It’s a good practice to maintain the default structure to ensure that Pelican works smoothly with other tools.
 
 ### 3. Add Your Resume in Markdown
 
